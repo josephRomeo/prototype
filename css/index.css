@@ -1,0 +1,237 @@
+*
+{
+	margin: 0px;
+}
+
+body
+{
+	background:rgb(244, 247, 249);
+}
+
+.top
+{
+	position:absolute;
+	background:rgb(58, 58, 58);
+	height: 60px;
+	width: 1349px;
+	-webkit-border-bottom: solid 1px rgb(58, 58, 58) ;
+	-moz-border-bottom: solid 1px rgb(58, 58, 58) ;
+	border-bottom: solid 1px rgb(58, 58, 58) ;
+}
+
+.label
+{
+	position: relative;
+	top: 15px;
+	left: 20px;
+	text-shadow:1px solid black ;
+	font-weight: bold;	
+	font-size: 20px;
+	color: white;
+}
+
+.label1
+{
+	position: relative;
+	top: 15px;
+	left: 900px;
+	text-shadow: 1px solid black;
+	font-weight: bold;
+	font-size: 20px;
+	color: white;
+}
+
+.mobilecontroller
+{
+	position: relative;
+	width: 100px;
+	top:30px ;
+	left: 100px;
+}
+
+.sidebar
+{
+	position:absolute;
+	background: rgb(208, 211, 216);
+	height: 800px;
+	width: 190px;
+	top: 61px;
+	-webkit-border-right: solid 1px rgb(247, 248, 249) ;
+	-moz-border-right: solid 1px rgb(247, 248, 249) ;
+	border-right: solid 1px rgb(247, 248, 249) ;
+}
+
+.center
+{
+	position:absolute;
+	top: 60px;
+	left: 190px;
+	height:100% ;
+	width:1140px ;
+	background:transparent;
+}
+
+.webimage
+{
+	position: absolute;
+	left: -160px;
+	width: 600px;
+	height: 600px;
+}
+
+.web
+{
+	position: relative;
+	background: red;
+	border-top: 1px solid white;
+	width: 100%;
+}
+
+.previous
+{
+	position: absolute;
+	text-align: center;
+	top: 0px;
+	background: #d2d4d8;
+	border-radius: 5px;
+	width: 100px;
+	height: 30px;
+}
+
+.previous1
+{
+	position: absolute;
+	text-align: center;
+	top: 0px;
+	background: #54c0f7;
+	border-radius: 5px;
+	-webkit-box-shadow:  2px 4px 10px grey  ;
+	-moz-box-shadow:  2px 4px 10px grey  ;
+	box-shadow:  2px 4px 10px grey ;
+	width: 100px;
+	height: 30px;
+}
+
+.next
+{
+	position: absolute;
+	text-align: center;
+	top: 0px;
+	left: 800px;
+	background: #54c0f7;
+	border-radius: 5px;
+	-webkit-box-shadow:  2px 4px 10px grey  ;
+	-moz-box-shadow:  2px 4px 10px grey  ;
+	box-shadow:  2px 4px 10px grey ;
+	width: 80px;
+	height: 30px;
+}
+
+.next1
+{
+	position: absolute;
+	text-align: center;
+	top: 0px;
+	left: 800px;
+	background: #d2d4d8;
+	border-radius: 5px;
+	width: 80px;
+	height: 30px;
+}
+
+.mobileparagraph
+{
+	position: absolute;
+	background: transparent;
+	font-weight: bold;
+	text-align: justify;
+	width: 300px;
+	top: 15px;
+	left: 350px;
+}
+
+.webparagraph
+{
+	position: absolute;
+	background: transparent;
+	font-weight: bold;
+	text-align: justify;
+	width: 300px;
+	top: 15px;
+	left: 480px;
+}
+
+.mobilehead
+{
+	position: relative;
+	top: 20px;
+}
+
+.mobilehead ul li
+{
+	display: inline-block;
+	text-decoration: none;
+	list-style: none;
+}
+
+.mobilehead ul li a
+{
+
+	color: white;
+	font-weight: bold;
+	font-size: 20px;
+	text-decoration: none;
+}
+
+.mobilecenter
+{
+	position: relative;
+	width: 100px;
+	top: 70px;
+	left: 150px;
+}
+
+.sidebar ul li
+{
+	position: relative;
+	background: transparent;
+	top:110px;
+	width: 170px;
+	left: -39px;
+	padding: 10px;
+	border-bottom: 1px solid #fff;
+}
+
+.sidebar ul li
+{
+
+	text-decoration: none;
+	list-style: none;
+}
+
+.sidebar ul li a
+{
+	color: black;
+	font-weight: bold;
+	text-decoration: none;
+	padding-left: 25px;
+}
+
+.sidebar a:hover
+{
+	color: grey;
+}
+
+.image
+{
+	position: absolute;
+	top: -5px;
+	left: 35px;
+}
+
+.image1
+{
+	position: relative;
+	top: 5px;
+	padding-left: 10px;
+}
